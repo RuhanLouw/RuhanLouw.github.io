@@ -141,3 +141,41 @@
           <p class="mb-0"><span class="text-secondary pe-1">Name:</span>Ruhan Louw</p>
               <p class="mb-0"><span class="text-secondary pe-1">Name:</span>Ruhan Louw</p>
               <p class="mb-0"><span class="text-secondary pe-1">Name:</span>Ruhan Louw</p>
+
+
+
+      <div class="row">
+          <!--Mehcanical-->
+        <div class="col-4">
+          <!--Skill heading-->
+          <h4 class="">Mechanical</h4>
+          <ul style="list-style: none;">
+            <li>Design</li>
+            <li>Design</li>
+            <li>Design</li>
+          </ul>
+        </div>
+        <!--/Mehcanical-->
+        <!--Electrical-->
+        <div class="col-4">
+          <!--Skill heading-->
+          <h4 class="">Electrical</h4>
+          <ul style="list-style: none;">
+            <li>Design</li>
+            <li>Design</li>
+            <li>Design</li>
+          </ul>        
+        </div>
+        <!--/Electrical-->
+        <!--Computational-->
+        <div class="col-4">
+          <!--Skill heading-->
+          <h4 class="">Computation</h4>
+          <ul style="list-style: none;">
+            <li>Design</li>
+            <li>Design</li>
+            <li>Design</li>
+          </ul>
+        </div>
+        <!--/Computational-->
+      </div>
